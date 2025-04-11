@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swayzz\\Documents\\GitHub\\github-user-activity-CLI\\github-user-activity-CLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14FB6AB-67D9-4E39-9C80-4E0AB23AF688}|github-user-activity-CLI\\github-user-activity-CLI.vcxproj|C:\\Users\\swayzz\\Documents\\GitHub\\github-user-activity-CLI\\github-user-activity-CLI\\github-user-activity-CLI\\github-user-activity-CLI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B14FB6AB-67D9-4E39-9C80-4E0AB23AF688}|github-user-activity-CLI\\github-user-activity-CLI.vcxproj|solutionrelative:github-user-activity-CLI\\github-user-activity-CLI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "github-user-activity-CLI.cpp",
+              "DocumentMoniker": "C:\\Users\\swayzz\\Documents\\GitHub\\github-user-activity-CLI\\github-user-activity-CLI\\github-user-activity-CLI\\github-user-activity-CLI.cpp",
+              "RelativeDocumentMoniker": "github-user-activity-CLI\\github-user-activity-CLI.cpp",
+              "ToolTip": "C:\\Users\\swayzz\\Documents\\GitHub\\github-user-activity-CLI\\github-user-activity-CLI\\github-user-activity-CLI\\github-user-activity-CLI.cpp",
+              "RelativeToolTip": "github-user-activity-CLI\\github-user-activity-CLI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T01:23:20.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
