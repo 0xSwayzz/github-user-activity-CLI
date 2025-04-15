@@ -1,2 +1,6 @@
 ﻿  github-user-activity-CLI.cpp
-C:\Users\swayzz\Documents\GitHub\github-user-activity-CLI\github-user-activity-CLI\github-user-activity-CLI.cpp(5,2): error C3861: 'getUserActivity': identifier not found
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 135 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  github-user-activity-CLI.vcxproj -> C:\Users\swayzz\Documents\GitHub\github-user-activity-CLI\x64\Release\github-user-activity-CLI.exe
