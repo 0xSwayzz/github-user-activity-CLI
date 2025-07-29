@@ -1,2 +1,1 @@
-# idk why i learnt to do this
-Made by Hxnted and Hxnted only.
+# Simple C++ CLI that grabs github users activity using github api.
